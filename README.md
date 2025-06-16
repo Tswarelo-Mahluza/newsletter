@@ -2,7 +2,7 @@ Newsletter Sign-up Form with Success Message
 A responsive newsletter sign-up form built with HTML and CSS, featuring a success message upon subscription. This project is designed as a solution to the "Codetribe" challenge and serves as a practice exercise for web development skills.
 
 
-Live Demo: https://bongani-729.github.io/newsletter-sign-up-with-success-message-main/
+Live Demo: file:///C:/Users/phumz/Downloads/Bootcamp%20final%20project/Bootcamp%20final%20project/newsletter-sign-up-with-success-message-main/newsletter-sign-up-with-success-message-main/index.html
 
 
 Features
